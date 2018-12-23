@@ -1,0 +1,39 @@
+{
+  "name": "",
+  "data": {
+    "College accommodation": [
+      {}
+    ],
+    "Catering": [
+      {
+        "Dining hall": "YES",
+        "Bar": "YES",
+        "Café": "NO"
+      }
+    ],
+    "Facilities": [
+      {
+        "Gym on site": "YES",
+        "Boathouse": "YES",
+        "Library open 24/7": "YES",
+        "Computer rooms/stations": "YES",
+        "Wi-Fi throughout college": "YES",
+        "Music room": "YES",
+        "Theatre/performance space": "YES",
+        "Chapel": "YES",
+        "Multi-faith prayer room": "NO"
+      }
+    ],
+    "Clubs and societies": [
+      {
+        "Music society": "YES",
+        "Orchestra/s": "YES",
+        "Choir/s": "YES",
+        "Dramatic society": "YES",
+        "College student magazine/paper": "NO",
+        "Some subject societies": "YES",
+        "Other societies": "YES"
+      }
+    ]
+  }
+}

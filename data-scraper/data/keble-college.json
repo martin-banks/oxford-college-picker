@@ -1,0 +1,44 @@
+{
+  "name": "",
+  "data": {
+    "College accommodation          ": [
+      {
+        "All first years on site": "YES",
+        "Usually offered for three years": "YES",
+        "Usually offered for first year and one other year": "NO",
+        "Usually offered for all years": "NO",
+        "Some vacation storage for international students": "YES"
+      }
+    ],
+    "Catering": [
+      {
+        "Dining hall": "YES",
+        "Bar": "YES",
+        "Café": "YES"
+      }
+    ],
+    "Facilities": [
+      {
+        "Gym on site": "YES",
+        "Boathouse": "YES",
+        "Library open 24/7": "YES",
+        "Computer rooms/stations": "YES",
+        "Wi-Fi throughout college": "YES",
+        "Music room": "YES",
+        "Theatre/performance space": "YES",
+        "Chapel": "YES",
+        "Multi-faith prayer room": "NO"
+      }
+    ],
+    "Clubs and societies": [
+      {
+        "Music society": "YES",
+        "Orchestra/s": "YES",
+        "Choir/s": "YES",
+        "Dramatic society": "YES",
+        "College student magazine/paper": "NO",
+        "Some subject societies": "YES"
+      }
+    ]
+  }
+}
