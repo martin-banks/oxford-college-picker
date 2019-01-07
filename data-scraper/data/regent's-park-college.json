@@ -1,39 +1,31 @@
 {
   "name": "",
   "data": {
-    "College accommodation": [
-      {}
-    ],
-    "Catering": [
-      {
-        "Dining hall": "YES",
-        "Bar": "YES",
-        "Café": "NO"
-      }
-    ],
-    "Facilities": [
-      {
-        "Gym on site": "NO",
-        "Boathouse": "YES",
-        "Library open 24/7": "YES",
-        "Computer rooms/stations": "YES",
-        "Wi-Fi throughout college": "YES",
-        "Music room": "NO",
-        "Theatre/performance space": "NO",
-        "Chapel": "YES",
-        "Multi-faith prayer room": "NO"
-      }
-    ],
-    "Clubs and societies": [
-      {
-        "Music society": "NO",
-        "Orchestra/s": "NO",
-        "Choir/s": "YES",
-        "Dramatic society": "YES",
-        "College student magazine/paper": "NO",
-        "Some subject societies": "YES",
-        "Other societies": "YES"
-      }
-    ]
+    "College accommodation": {},
+    "Catering": {
+      "Dining hall": true,
+      "Bar": true,
+      "Café": false
+    },
+    "Facilities": {
+      "Gym on site": false,
+      "Boathouse": true,
+      "Library open 24/7": true,
+      "Computer rooms/stations": true,
+      "Wi-Fi throughout college": true,
+      "Music room": false,
+      "Theatre/performance space": false,
+      "Chapel": true,
+      "Multi-faith prayer room": false
+    },
+    "Clubs and societies": {
+      "Music society": false,
+      "Orchestra/s": false,
+      "Choir/s": true,
+      "Dramatic society": true,
+      "College student magazine/paper": false,
+      "Some subject societies": true,
+      "Other societies": true
+    }
   }
 }

@@ -1,45 +1,37 @@
 {
   "name": "",
   "data": {
-    "College accommodation": [
-      {
-        "All first years on site": "YES",
-        "Usually offered for three years": "YES",
-        "Usually offered for first year and one other year": "NO",
-        "Usually offered for all years": "NO",
-        "Some vacation storage for international students": "YES"
-      }
-    ],
-    "Catering": [
-      {
-        "Dining hall": "YES",
-        "Bar": "YES",
-        "Café": "NO"
-      }
-    ],
-    "Facilities": [
-      {
-        "Gym on site": "YES",
-        "Boathouse": "YES",
-        "Library open 24/7": "YES",
-        "Computer rooms/stations": "YES",
-        "Wi-Fi throughout college": "YES",
-        "Music room": "YES",
-        "Theatre/performance space": "NO",
-        "Chapel": "YES",
-        "Multi-faith prayer room": "YES"
-      }
-    ],
-    "Clubs and societies": [
-      {
-        "Music society": "YES",
-        "Orchestra/s": "NO",
-        "Choir/s": "YES",
-        "Dramatic society": "YES",
-        "College student magazine/paper": "YES",
-        "Some subject societies": "YES",
-        "Other societies": "YES"
-      }
-    ]
+    "College accommodation": {
+      "All first years on site": true,
+      "Usually offered for three years": true,
+      "Usually offered for first year and one other year": false,
+      "Usually offered for all years": false,
+      "Some vacation storage for international students": true
+    },
+    "Catering": {
+      "Dining hall": true,
+      "Bar": true,
+      "Café": false
+    },
+    "Facilities": {
+      "Gym on site": true,
+      "Boathouse": true,
+      "Library open 24/7": true,
+      "Computer rooms/stations": true,
+      "Wi-Fi throughout college": true,
+      "Music room": true,
+      "Theatre/performance space": false,
+      "Chapel": true,
+      "Multi-faith prayer room": true
+    },
+    "Clubs and societies": {
+      "Music society": true,
+      "Orchestra/s": false,
+      "Choir/s": true,
+      "Dramatic society": true,
+      "College student magazine/paper": true,
+      "Some subject societies": true,
+      "Other societies": true
+    }
   }
 }

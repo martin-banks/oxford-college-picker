@@ -22,17 +22,24 @@ console.log('Starting scraper...')
     const rows = [...table.querySelectorAll('a')]
       .map(a => ({
           name: a.innerText.trim(),
-          link: `https:${a.getAttribute('href')}`
+          link: `https:${a.getAttribute('href')}`,
+          active: false,
         })
       )
 
     return rows
   })
 
-  for (const college of colleges) {
+  const collegesArray = colleges
+    .reduce((output, college) => {
+      const update = output
+      const key = college.name.toLowerCase().replace(/\s+/gi, '-')
+      update[key] = college
+      return update
+    }, {})
 
+  for (const college of colleges) {
     const { name, link } = college
-    console.log({ link })
     const collegePage = await browser.newPage()
     await collegePage.goto(link)
 
@@ -51,12 +58,31 @@ console.log('Starting scraper...')
             .map(p => p.replace(/\<li\>|\<\/li\>/gi, ''))
             .reduce((output, part) => {
               const update = output
-              const items = part.split(':').map(a => a.trim())
-              update[items[0]] = items[1]
+              const items = part.split(':')
+                .map(a => a.trim())
+                .filter(x => x.length)
+
+              if (items.length) {
+                update[items[0]] = items[1].toLowerCase() === 'yes'
+              }
               return update
             }, {})
           return parts
         })
+        .reduce((output, part) => {
+          const update = output
+          Object.keys(part).forEach(key => {
+            update[key] = part[key]
+          })
+          return update
+        }, {})
+
+
+
+        // const facilities = data.reduce((output, d) => {
+        //   const update = output
+        //   Object
+        // }, {})
         output[sectionName] = data
       }
 
@@ -65,6 +91,8 @@ console.log('Starting scraper...')
         data: output,
       }
     })
+    const key = name.toLowerCase().replace(/\s+/gi, '-')
+    collegesArray[key].facilities = data.data
 
     fs.writeFile(
       path.join(__dirname, `./data/${name.toLowerCase().replace(/\s+/gi, '-')}.json`),
@@ -74,11 +102,12 @@ console.log('Starting scraper...')
   }
 
   fs.writeFile(
-    path.join(__dirname, './data/all-college-list.json'),
-    JSON.stringify(colleges, 'utf8', 2),
+    './data-scraper/all-college-list.json',
+    JSON.stringify(collegesArray, 'utf8', 2),
     err => console.log(err || 'College list write success')
   )
-  
+
+
   await browser.close()
  
 })()

@@ -1,45 +1,37 @@
 {
   "name": "",
   "data": {
-    "College accommodation": [
-      {
-        "All first years on site": "YES",
-        "Usually offered for three years": "NO",
-        "Usually offered for first year and one other year": "NO",
-        "Usually offered for all years": "YES",
-        "Some vacation storage for international students": "YES"
-      }
-    ],
-    "Catering                                 ": [
-      {
-        "Dining hall": "YES",
-        "Bar": "YES",
-        "Café": "NO"
-      }
-    ],
-    "Facilities                                    ": [
-      {
-        "Gym on site": "NO",
-        "Boathouse": "YES",
-        "Library open 24/7": "YES",
-        "Computer rooms/stations": "YES",
-        "Wi-Fi throughout college": "YES",
-        "Music room": "YES",
-        "Theatre/performance space": "YES",
-        "Chapel": "YES",
-        "Multi-faith prayer room": "NO"
-      }
-    ],
-    " Clubs and societies": [
-      {
-        "&nbsp;Music society": "YES",
-        "Orchestra/s": "YES",
-        "Choir/s": "YES",
-        "Dramatic society": "YES",
-        "College student magazine/paper": "NO",
-        "Some subject societies": "YES",
-        "Other societies": "YES"
-      }
-    ]
+    "College accommodation": {
+      "All first years on site": true,
+      "Usually offered for three years": false,
+      "Usually offered for first year and one other year": false,
+      "Usually offered for all years": true,
+      "Some vacation storage for international students": true
+    },
+    "Catering                                 ": {
+      "Dining hall": true,
+      "Bar": true,
+      "Café": false
+    },
+    "Facilities                                    ": {
+      "Gym on site": false,
+      "Boathouse": true,
+      "Library open 24/7": true,
+      "Computer rooms/stations": true,
+      "Wi-Fi throughout college": true,
+      "Music room": true,
+      "Theatre/performance space": true,
+      "Chapel": true,
+      "Multi-faith prayer room": false
+    },
+    " Clubs and societies": {
+      "&nbsp;Music society": true,
+      "Orchestra/s": true,
+      "Choir/s": true,
+      "Dramatic society": true,
+      "College student magazine/paper": false,
+      "Some subject societies": true,
+      "Other societies": true
+    }
   }
 }
