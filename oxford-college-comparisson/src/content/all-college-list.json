@@ -1,0 +1,1140 @@
+{
+  "balliol-college": {
+    "name": "Balliol College",
+    "link": "https://www.ox.ac.uk/admissions/undergraduate/colleges/college-listing/balliol-college",
+    "facilities": {
+      "College accommodation": {
+        "All first years on site": true,
+        "Usually offered for three years": false,
+        "Usually offered for first year and one other year": true,
+        "Usually offered for all years": false,
+        "Some vacation storage for international students": true
+      },
+      "Catering": {
+        "Dining hall": true,
+        "Bar": true
+      },
+      "Facilities": {
+        "Gym on site": true,
+        "Boathouse": true,
+        "Library open 24/7": true,
+        "Computer rooms/stations": true,
+        "Wi-Fi throughout college": true,
+        "Music room": true,
+        "Theatre/performance space": true,
+        "Chapel": true,
+        "Multi-faith prayer room": true
+      },
+      "Clubs & societies activities": {
+        "Music society": true,
+        "Orchestra(s)": false,
+        "Choir(s)": true,
+        "Dramatic society": true,
+        "College student magazine/paper": true,
+        "Some subject societies": true,
+        "Other societies": true
+      }
+    }
+  },
+  "brasenose-college": {
+    "name": "Brasenose College",
+    "link": "https://www.ox.ac.uk/admissions/undergraduate/colleges/college-listing/brasenose-college",
+    "facilities": {
+      "College accommodation": {
+        "All first years on site": true,
+        "Usually offered for three years": true,
+        "Usually offered for first year and one other year": false,
+        "Usually offered for all years": false,
+        "Some vacation storage for international students": true
+      },
+      "Catering": {
+        "Dining hall": true,
+        "Bar": true,
+        "Café": true
+      },
+      "Facilities": {
+        "Gym on site": false,
+        "Boathouse": true,
+        "Library open 24/7": true,
+        "Computer rooms/stations": true,
+        "Wi-Fi throughout college": true,
+        "Music room": true,
+        "Theatre/performance space": true,
+        "Chapel": true,
+        "Multi-faith prayer room": false
+      },
+      "Clubs and societies": {
+        "Music society": true,
+        "Orchestra/s": false,
+        "Choir/s": true,
+        "Dramatic society": true,
+        "College student magazine/paper": true,
+        "Some subject societies": true,
+        "Other societies": true
+      }
+    }
+  },
+  "christ-church": {
+    "name": "Christ Church",
+    "link": "https://www.ox.ac.uk/admissions/undergraduate/colleges/college-listing/christ-church",
+    "facilities": {
+      "College accommodation": {
+        "All first years on site": true,
+        "Usually offered for three years": true,
+        "Usually offered for first year and one other year": false,
+        "Usually offered for all years": false,
+        "Some vacation storage for international students": true
+      },
+      " Catering": {
+        "Dining hall": true,
+        "Bar": true,
+        "Café": true
+      },
+      " Facilities": {
+        "Gym on site": false,
+        "Boathouse": true,
+        "Library open 24/7": false,
+        "Computer rooms/stations": true,
+        "Wi-Fi throughout college": true,
+        "Music room": true,
+        "Theatre/performance space": true,
+        "Chapel": true,
+        "Multi-faith prayer room": false
+      },
+      " Clubs and societies": {
+        "Music society": true,
+        "Orchestra/s": true,
+        "Choir/s": true,
+        "Dramatic society": true,
+        "College student magazine/paper": false,
+        "Some subject societies": true,
+        "Other societies": true
+      }
+    }
+  },
+  "corpus-christi-college": {
+    "name": "Corpus Christi College",
+    "link": "https://www.ox.ac.uk/admissions/undergraduate/colleges/college-listing/corpus-christi-college",
+    "facilities": {
+      "College accommodation": {
+        "All first years on site": true,
+        "Usually offered for three years": false,
+        "Usually offered for first year and one other year": false,
+        "Usually offered for all years": true,
+        "Some vacation storage for international students": true
+      },
+      "Catering                                 ": {
+        "Dining hall": true,
+        "Bar": true,
+        "Café": false
+      },
+      "Facilities                                    ": {
+        "Gym on site": false,
+        "Boathouse": true,
+        "Library open 24/7": true,
+        "Computer rooms/stations": true,
+        "Wi-Fi throughout college": true,
+        "Music room": true,
+        "Theatre/performance space": true,
+        "Chapel": true,
+        "Multi-faith prayer room": false
+      },
+      " Clubs and societies": {
+        "&nbsp;Music society": true,
+        "Orchestra/s": true,
+        "Choir/s": true,
+        "Dramatic society": true,
+        "College student magazine/paper": false,
+        "Some subject societies": true,
+        "Other societies": true
+      }
+    }
+  },
+  "exeter-college": {
+    "name": "Exeter College",
+    "link": "https://www.ox.ac.uk/admissions/undergraduate/colleges/college-listing/exeter-college",
+    "facilities": {
+      "College accommodation": {
+        "All first years on site": true,
+        "Usually offered for three years": true,
+        "Usually offered for first year and one other year": false,
+        "Usually offered for all years": false,
+        "Some vacation storage for international students": true
+      },
+      "Catering": {
+        "Dining hall": true,
+        "Bar": true,
+        "Café": true
+      },
+      "Facilities": {
+        "Gym on site": true,
+        "Boathouse": true,
+        "Library open 24/7": true,
+        "Computer rooms/stations": true,
+        "Wi-Fi throughout college": true,
+        "Music room": true,
+        "Theatre/performance space": true,
+        "Chapel": true,
+        "Multi-faith prayer room": false
+      },
+      " Clubs and societies": {
+        "&nbsp;Music society": true,
+        "Orchestra/s": false,
+        "Choir/s": true,
+        "Dramatic society": true,
+        "College student magazine/paper": true,
+        "Some subject societies": true,
+        "Other societies": true
+      }
+    }
+  },
+  "harris-manchester-college": {
+    "name": "Harris Manchester College",
+    "link": "https://www.ox.ac.uk/admissions/undergraduate/colleges/college-listing/harris-manchester-college",
+    "facilities": {
+      "College accommodation": {
+        "All first years on site": true,
+        "Usually offered for three years": false,
+        "Usually offered for first year and one other year": true,
+        "Usually offered for all years": false,
+        "Some vacation storage for international students": true
+      },
+      "Catering": {
+        "Dining hall": true,
+        "Bar": true,
+        "Café": false
+      },
+      "Facilities": {
+        "Gym on site": false,
+        "Boathouse": true,
+        "Library open 24/7": true,
+        "Computer rooms/stations": true,
+        "Wi-Fi throughout college": true,
+        "Music room": false,
+        "Theatre/performance space": false,
+        "Chapel": true,
+        "Multi-faith prayer room": false
+      },
+      "Clubs and societies": {
+        "Music society": false,
+        "Orchestra/s": false,
+        "Choir/s": true,
+        "Dramatic society": false,
+        "College student magazine/paper": false,
+        "Some subject societies": false,
+        "Other societies": true
+      }
+    }
+  },
+  "hertford-college": {
+    "name": "Hertford College",
+    "link": "https://www.ox.ac.uk/admissions/undergraduate/colleges/college-listing/hertford-college",
+    "facilities": {
+      "College accommodation": {
+        "All first years on site": true,
+        "Usually offered for three years": true,
+        "Usually offered for first year and one other year": false,
+        "Usually offered for all years": false,
+        "Some vacation storage for international students": true
+      },
+      "Catering": {
+        "Dining hall": true,
+        "Bar": true,
+        "Café": false
+      },
+      "Facilities": {
+        "Gym on site": true,
+        "Boathouse": true,
+        "Library open 24/7": true,
+        "Computer rooms/stations": true,
+        "Wi-Fi throughout college": true,
+        "Music room": true,
+        "Theatre/performance space": false,
+        "Chapel": true,
+        "Multi-faith prayer room": false
+      },
+      "Clubs and societies": {
+        "Music society": true,
+        "Orchestra/s": true,
+        "Choir/s": true,
+        "Dramatic society": false,
+        "College student magazine/paper": true,
+        "Some subject societies": true,
+        "Other societies": true
+      }
+    }
+  },
+  "jesus-college": {
+    "name": "Jesus College",
+    "link": "https://www.ox.ac.uk/admissions/undergraduate/colleges/college-listing/jesus-college",
+    "facilities": {
+      "College accommodation          ": {
+        "All first years on site": true,
+        "Usually offered for three years": true,
+        "Usually offered for first year and one other year": false,
+        "Usually offered for all years": false,
+        "Some vacation storage for international students": true
+      },
+      "Catering": {
+        "Dining hall": true,
+        "Bar": true,
+        "Café": false
+      },
+      "Facilities": {
+        "Gym on site": false,
+        "Boathouse": true,
+        "Library open 24/7": true,
+        "Computer rooms/stations": true,
+        "Wi-Fi throughout college": true,
+        "Music room": true,
+        "Theatre/performance space": false,
+        "Chapel": true,
+        "Multi-faith prayer room": false
+      },
+      "Clubs and societies": {
+        "Music society": false,
+        "Orchestra/s": true,
+        "Choir/s": true,
+        "Dramatic society": false,
+        "College student magazine/paper": true,
+        "Some subject societies": true,
+        "Other societies": true
+      }
+    }
+  },
+  "keble-college": {
+    "name": "Keble College",
+    "link": "https://www.ox.ac.uk/admissions/undergraduate/colleges/college-listing/keble-college",
+    "facilities": {
+      "College accommodation          ": {
+        "All first years on site": true,
+        "Usually offered for three years": true,
+        "Usually offered for first year and one other year": false,
+        "Usually offered for all years": false,
+        "Some vacation storage for international students": true
+      },
+      "Catering": {
+        "Dining hall": true,
+        "Bar": true,
+        "Café": true
+      },
+      "Facilities": {
+        "Gym on site": true,
+        "Boathouse": true,
+        "Library open 24/7": true,
+        "Computer rooms/stations": true,
+        "Wi-Fi throughout college": true,
+        "Music room": true,
+        "Theatre/performance space": true,
+        "Chapel": true,
+        "Multi-faith prayer room": false
+      },
+      "Clubs and societies": {
+        "Music society": true,
+        "Orchestra/s": true,
+        "Choir/s": true,
+        "Dramatic society": true,
+        "College student magazine/paper": false,
+        "Some subject societies": true
+      }
+    }
+  },
+  "lady-margaret-hall": {
+    "name": "Lady Margaret Hall",
+    "link": "https://www.ox.ac.uk/admissions/undergraduate/colleges/college-listing/lady-margaret-hall",
+    "facilities": {
+      "College accommodation": {},
+      "Catering": {
+        "Dining hall": true,
+        "Bar": true,
+        "Café": false
+      },
+      "Facilities": {
+        "Gym on site": true,
+        "Boathouse": true,
+        "Library open 24/7": true,
+        "Computer rooms/stations": true,
+        "Wi-Fi throughout college": true,
+        "Music room": true,
+        "Theatre/performance space": true,
+        "Chapel": true,
+        "Multi-faith prayer room": true
+      },
+      "Clubs and societies": {
+        "Music society": true,
+        "Orchestra/s": true,
+        "Choir/s": true,
+        "Dramatic society": false,
+        "College student magazine/paper": false,
+        "Some subject societies": true,
+        "Other societies": true
+      }
+    }
+  },
+  "lincoln-college": {
+    "name": "Lincoln College",
+    "link": "https://www.ox.ac.uk/admissions/undergraduate/colleges/college-listing/lincoln-college",
+    "facilities": {
+      "College accommodation": {},
+      "Catering": {
+        "Dining hall": true,
+        "Bar": true,
+        "Café": true
+      },
+      "Facilities": {
+        "Gym on site": false,
+        "Boathouse": true,
+        "Library open 24/7": false,
+        "Computer rooms/stations": true,
+        "Wi-Fi throughout college": true,
+        "Music room": true,
+        "Theatre/performance space": true,
+        "Chapel": true,
+        "Multi-faith prayer room": false
+      },
+      "Clubs and societies": {
+        "Music society": true,
+        "Orchestra/s": true,
+        "Choir/s": true,
+        "Dramatic society": true,
+        "College student magazine/paper": true,
+        "Some subject societies": true,
+        "Other societies": true
+      }
+    }
+  },
+  "magdalen-college": {
+    "name": "Magdalen College",
+    "link": "https://www.ox.ac.uk/admissions/undergraduate/colleges/college-listing/magdalen-college",
+    "facilities": {
+      "College accommodation": {},
+      "Catering": {
+        "Dining hall": true,
+        "Bar": true,
+        "Café": true
+      },
+      "Facilities": {
+        "Gym on site": false,
+        "Boathouse": true,
+        "Library open 24/7": true,
+        "Computer rooms/stations": true,
+        "Wi-Fi throughout college": true,
+        "Music room": true,
+        "Theatre/performance space": true,
+        "Chapel": true,
+        "Multi-faith prayer room": false
+      },
+      "Clubs and societies": {
+        "Music society": true,
+        "Orchestra/s": true,
+        "Choir/s": true,
+        "Dramatic society": true,
+        "College student magazine/paper": false,
+        "Some subject societies": true,
+        "Other societies": true
+      }
+    }
+  },
+  "mansfield-college": {
+    "name": "Mansfield College",
+    "link": "https://www.ox.ac.uk/admissions/undergraduate/colleges/college-listing/mansfield-college",
+    "facilities": {
+      "College accommodation": {},
+      "Catering": {
+        "Dining hall": true,
+        "Bar": true,
+        "Café": true
+      },
+      "Facilities": {
+        "Gym on site": false,
+        "Boathouse": true,
+        "Library open 24/7": true,
+        "Computer rooms/stations": true,
+        "Wi-Fi throughout college": true,
+        "Music room": false,
+        "Theatre/performance space": true,
+        "Chapel": true,
+        "Multi-faith prayer room": false
+      },
+      "Clubs and societies": {
+        "Music society": false,
+        "Orchestra/s": true,
+        "Choir/s": true,
+        "Dramatic society": true,
+        "College student magazine/paper": true,
+        "Some subject societies": true,
+        "Other societies": true
+      }
+    }
+  },
+  "merton-college": {
+    "name": "Merton College",
+    "link": "https://www.ox.ac.uk/admissions/undergraduate/colleges/college-listing/merton-college",
+    "facilities": {
+      "College accommodation": {},
+      "Catering": {
+        "Dining hall": true,
+        "Bar": true,
+        "Café": false
+      },
+      "Facilities": {
+        "Gym on site": true,
+        "Boathouse": true,
+        "Library open 24/7": false,
+        "Computer rooms/stations": true,
+        "Wi-Fi throughout college": true,
+        "Music room": true,
+        "Theatre/performance space": true,
+        "Chapel": true,
+        "Multi-faith prayer room": false
+      },
+      "Clubs and societies": {
+        "Music society": true,
+        "Orchestra/s": true,
+        "Choir/s": true,
+        "Dramatic society": true,
+        "College student magazine/paper": true,
+        "Some subject societies": true,
+        "Other societies": true
+      }
+    }
+  },
+  "new-college": {
+    "name": "New College",
+    "link": "https://www.ox.ac.uk/admissions/undergraduate/colleges/college-listing/new-college",
+    "facilities": {
+      "College accommodation": {},
+      "Catering": {
+        "Dining hall": true,
+        "Bar": true,
+        "Café": true
+      },
+      "Facilities": {
+        "Gym on site": false,
+        "Boathouse": true,
+        "Library open 24/7": false,
+        "Computer rooms/stations": true,
+        "Wi-Fi throughout college": true,
+        "Music room": true,
+        "Theatre/performance space": false,
+        "Chapel": true,
+        "Multi-faith prayer room": false
+      },
+      "Clubs and societies": {
+        "Music society": true,
+        "Orchestra/s": true,
+        "Choir/s": true,
+        "Dramatic society": true,
+        "College student magazine/paper": true,
+        "Some subject societies": true,
+        "Other societies": true
+      }
+    }
+  },
+  "oriel-college": {
+    "name": "Oriel College",
+    "link": "https://www.ox.ac.uk/admissions/undergraduate/colleges/college-listing/oriel-college",
+    "facilities": {
+      "College accommodation": {
+        "All first years on site": true,
+        "Usually offered for three years": true,
+        "Usually offered for first year and one other year": false,
+        "Usually offered for all years": false,
+        "Some vacation storage for international students": true
+      },
+      "Catering": {
+        "Dining hall": true,
+        "Bar": true,
+        "Café": false
+      },
+      "Facilities": {
+        "Gym on site": true,
+        "Boathouse": true,
+        "Library open 24/7": true,
+        "Computer rooms/stations": true,
+        "Wi-Fi throughout college": true,
+        "Music room": true,
+        "Theatre/performance space": false,
+        "Chapel": true,
+        "Multi-faith prayer room": true
+      },
+      "Clubs and societies": {
+        "Music society": true,
+        "Orchestra/s": false,
+        "Choir/s": true,
+        "Dramatic society": true,
+        "College student magazine/paper": true,
+        "Some subject societies": true,
+        "Other societies": true
+      }
+    }
+  },
+  "pembroke-college": {
+    "name": "Pembroke College",
+    "link": "https://www.ox.ac.uk/admissions/undergraduate/colleges/college-listing/pembroke-college",
+    "facilities": {
+      "College accommodation": {
+        "All first years on site": true,
+        "Usually offered for three years": true,
+        "Usually offered for first year and one other year": false,
+        "Usually offered for all years": false,
+        "Some vacation storage for international students": true
+      },
+      "Catering": {
+        "Dining hall": true,
+        "Bar": true,
+        "Café": true
+      },
+      "Facilities": {
+        "Gym on site": false,
+        "Boathouse": true,
+        "Library open 24/7": true,
+        "Computer rooms/stations": true,
+        "Wi-Fi throughout college": true,
+        "Music room": true,
+        "Theatre/performance space": true,
+        "Chapel": true,
+        "Multi-faith prayer room": false
+      },
+      "Clubs and societies": {
+        "Music society": true,
+        "Orchestra/s": false,
+        "Choir/s": true,
+        "Dramatic society": true,
+        "College student magazine/paper": true,
+        "Some subject societies": true,
+        "Other societies": true
+      }
+    }
+  },
+  "the-queen's-college": {
+    "name": "The Queen's College",
+    "link": "https://www.ox.ac.uk/admissions/undergraduate/colleges/college-listing/queens-college",
+    "facilities": {
+      "College accommodation": {},
+      "Catering": {
+        "Dining hall": true,
+        "Bar": true,
+        "Café": false
+      },
+      "Facilities": {
+        "Gym on site": true,
+        "Boathouse": true,
+        "Library open 24/7": true,
+        "Computer rooms/stations": true,
+        "Wi-Fi throughout college": true,
+        "Music room": true,
+        "Theatre/performance space": true,
+        "Chapel": true,
+        "Multi-faith prayer room": false
+      },
+      "Clubs and societies": {
+        "Music society": true,
+        "Orchestra/s": true,
+        "Choir/s": true,
+        "Dramatic society": true,
+        "College student magazine/paper": false,
+        "Some subject societies": true,
+        "Other societies": true
+      }
+    }
+  },
+  "regent's-park-college": {
+    "name": "Regent's Park College",
+    "link": "https://www.ox.ac.uk/admissions/undergraduate/colleges/college-listing/regents-park-college",
+    "facilities": {
+      "College accommodation": {},
+      "Catering": {
+        "Dining hall": true,
+        "Bar": true,
+        "Café": false
+      },
+      "Facilities": {
+        "Gym on site": false,
+        "Boathouse": true,
+        "Library open 24/7": true,
+        "Computer rooms/stations": true,
+        "Wi-Fi throughout college": true,
+        "Music room": false,
+        "Theatre/performance space": false,
+        "Chapel": true,
+        "Multi-faith prayer room": false
+      },
+      "Clubs and societies": {
+        "Music society": false,
+        "Orchestra/s": false,
+        "Choir/s": true,
+        "Dramatic society": true,
+        "College student magazine/paper": false,
+        "Some subject societies": true,
+        "Other societies": true
+      }
+    }
+  },
+  "st-anne's-college": {
+    "name": "St Anne's College",
+    "link": "https://www.ox.ac.uk/admissions/undergraduate/colleges/college-listing/st-annes-college",
+    "facilities": {
+      "College accommodation": {},
+      "Catering": {
+        "Dining hall": true,
+        "Bar": true,
+        "Café": true
+      },
+      "Facilities": {
+        "Gym on site": true,
+        "Boathouse": true,
+        "Library open 24/7": true,
+        "Computer rooms/stations": true,
+        "Wi-Fi throughout college": true,
+        "Music room": true,
+        "Theatre/performance space": true,
+        "Chapel": false,
+        "Multi-faith prayer room": false
+      },
+      "Clubs and societies": {
+        "Music society": true,
+        "Orchestra/s": true,
+        "Choir/s": true,
+        "Dramatic society": true,
+        "College student magazine/paper": false,
+        "Some subject societies": true,
+        "Other societies": true
+      }
+    }
+  },
+  "st-benet's-hall": {
+    "name": "St Benet's Hall",
+    "link": "https://www.ox.ac.uk/admissions/undergraduate/colleges/college-listing/st-benets-hall",
+    "facilities": {
+      "College accommodation": {},
+      "Catering": {
+        "Dining hall": true,
+        "Bar": false,
+        "Café": false
+      },
+      "Facilities": {
+        "Gym on site": false,
+        "Boathouse": true,
+        "Library open 24/7": true,
+        "Computer rooms/stations": true,
+        "Wi-Fi throughout college": true,
+        "Music room": true,
+        "Theatre/performance space": false,
+        "Chapel": true,
+        "Multi-faith prayer room": false
+      },
+      "Clubs and societies": {
+        "Music society": false,
+        "Orchestra/s": false,
+        "Choir/s": true,
+        "Dramatic society": true,
+        "College student magazine/paper": false,
+        "Some subject societies": false,
+        "Other societies": true
+      }
+    }
+  },
+  "st-catherine's-college": {
+    "name": "St Catherine's College",
+    "link": "https://www.ox.ac.uk/admissions/undergraduate/colleges/college-listing/st-catherines-college",
+    "facilities": {
+      "College accommodation": {},
+      "Catering": {
+        "Dining hall": true,
+        "Bar": true,
+        "Café": true
+      },
+      "Facilities": {
+        "Gym on site": true,
+        "Boathouse": true,
+        "Library open 24/7": false,
+        "Computer rooms/stations": true,
+        "Wi-Fi throughout college": true,
+        "Music room": true,
+        "Theatre/performance space": true,
+        "Chapel": false,
+        "Multi-faith prayer room": false
+      },
+      "Clubs and societies": {
+        "Music society": true,
+        "Orchestra/s": true,
+        "Choir/s": true,
+        "Dramatic society": true,
+        "College student magazine/paper": false,
+        "Some subject societies": true,
+        "Other societies": true
+      }
+    }
+  },
+  "st-edmund-hall": {
+    "name": "St Edmund Hall",
+    "link": "https://www.ox.ac.uk/admissions/undergraduate/colleges/college-listing/st-edmund-hall",
+    "facilities": {
+      "College accommodation": {
+        "All first years on site": true,
+        "Usually offered for three years": false,
+        "Usually offered for first year and one other year": true,
+        "Usually offered for all years": false,
+        "Some vacation storage for international students": true
+      },
+      "Catering": {
+        "Dining hall": true,
+        "Bar": true,
+        "Café": false
+      },
+      "Facilities": {
+        "Gym on site": true,
+        "Boathouse": true,
+        "Library open 24/7": false,
+        "Computer rooms/stations": true,
+        "Wi-Fi throughout college": true,
+        "Music room": true,
+        "Theatre/performance space": false,
+        "Chapel": true,
+        "Multi-faith prayer room": false
+      },
+      "Clubs and societies": {
+        "Music society": true,
+        "Orchestra/s": false,
+        "Choir/s": true,
+        "Dramatic society": true,
+        "College student magazine/paper": false,
+        "Some subject societies": true,
+        "Other societies": true
+      }
+    }
+  },
+  "st-hilda's-college": {
+    "name": "St Hilda's College",
+    "link": "https://www.ox.ac.uk/admissions/undergraduate/colleges/college-listing/st-hildas-college",
+    "facilities": {
+      "College accommodation": {},
+      "Catering": {
+        "Dining hall": true,
+        "Bar": true,
+        "Café": true
+      },
+      "Facilities": {
+        "Gym on site": true,
+        "Boathouse": true,
+        "Library open 24/7": false,
+        "Computer rooms/stations": true,
+        "Wi-Fi throughout college": true,
+        "Music room": true,
+        "Theatre/performance space": true,
+        "Chapel": true,
+        "Multi-faith prayer room": false
+      },
+      "Clubs and societies": {
+        "Music society": false,
+        "Orchestra/s": true,
+        "Choir/s": true,
+        "Dramatic society": true,
+        "College student magazine/paper": false,
+        "Some subject societies": false,
+        "Other societies": true
+      }
+    }
+  },
+  "st-hugh's-college": {
+    "name": "St Hugh's College",
+    "link": "https://www.ox.ac.uk/admissions/undergraduate/colleges/college-listing/st-hughs-college",
+    "facilities": {
+      "College accommodation": {},
+      "Catering": {
+        "Dining hall": true,
+        "Bar": true,
+        "Café": true
+      },
+      "Facilities": {
+        "Gym on site": true,
+        "Boathouse": true,
+        "Library open 24/7": true,
+        "Computer rooms/stations": true,
+        "Wi-Fi throughout college": true,
+        "Music room": true,
+        "Theatre/performance space": false,
+        "Chapel": true,
+        "Multi-faith prayer room": true
+      },
+      "Clubs and societies": {
+        "Music society": true,
+        "Orchestra/s": true,
+        "Choir/s": true,
+        "Dramatic society": true,
+        "College student magazine/paper": true,
+        "Some subject societies": true,
+        "Other societies": true
+      }
+    }
+  },
+  "st-john's-college": {
+    "name": "St John's College",
+    "link": "https://www.ox.ac.uk/admissions/undergraduate/colleges/college-listing/st-johns-college",
+    "facilities": {
+      "College accommodation": {},
+      "Catering": {
+        "Dining hall": true,
+        "Bar": true,
+        "Café": true
+      },
+      "Facilities": {
+        "Gym on site": true,
+        "Boathouse": true,
+        "Library open 24/7": false,
+        "Computer rooms/stations": true,
+        "Wi-Fi throughout college": true,
+        "Music room": true,
+        "Theatre/performance space": true,
+        "Chapel": true,
+        "Multi-faith prayer room": false
+      },
+      "Clubs and societies": {
+        "Music society": true,
+        "Orchestra/s": true,
+        "Choir/s": true,
+        "Dramatic society": true,
+        "College student magazine/paper": false,
+        "Some subject societies": true,
+        "Other societies": true
+      }
+    }
+  },
+  "st-peter's-college": {
+    "name": "St Peter's College",
+    "link": "https://www.ox.ac.uk/admissions/undergraduate/colleges/college-listing/st-peters-college",
+    "facilities": {
+      "College accommodation": {},
+      "Catering": {
+        "Dining hall": true,
+        "Bar": true,
+        "Café": true
+      },
+      "Facilities": {
+        "Gym on site": true,
+        "Boathouse": true,
+        "Library open 24/7": true,
+        "Computer rooms/stations": true,
+        "Wi-Fi throughout college": true,
+        "Music room": true,
+        "Theatre/performance space": true,
+        "Chapel": true,
+        "Multi-faith prayer room": false
+      },
+      "Clubs and societies": {
+        "Music society": true,
+        "Orchestra/s": true,
+        "Choir/s": true,
+        "Dramatic society": true,
+        "College student magazine/paper": true,
+        "Some subject societies": true,
+        "Other societies": true
+      }
+    }
+  },
+  "somerville-college": {
+    "name": "Somerville College",
+    "link": "https://www.ox.ac.uk/admissions/undergraduate/colleges/college-listing/somerville-college",
+    "facilities": {
+      "College accommodation": {
+        "All first years on site": true,
+        "Usually offered for three years": false,
+        "Usually offered for first year and one other year": true,
+        "Usually offered for all years": false,
+        "Some vacation storage for international students": true
+      },
+      "Catering": {
+        "Dining hall": true,
+        "Bar": true,
+        "Café": true
+      },
+      "Facilities": {
+        "Gym on site": true,
+        "Boathouse": true,
+        "Library open 24/7": true,
+        "Computer rooms/stations": true,
+        "Wi-Fi throughout college": true,
+        "Music room": true,
+        "Theatre/performance space": false,
+        "Chapel": true,
+        "Multi-faith prayer room": false
+      },
+      "Clubs and societies": {
+        "Music society": true,
+        "Orchestra/s": true,
+        "Choir/s": true,
+        "Dramatic society": true,
+        "College student magazine/paper": false,
+        "Some subject societies": true,
+        "Other societies": true
+      }
+    }
+  },
+  "trinity-college": {
+    "name": "Trinity College",
+    "link": "https://www.ox.ac.uk/admissions/undergraduate/colleges/college-listing/trinity-college",
+    "facilities": {
+      "College accommodation": {},
+      "Catering": {
+        "Dining hall": true,
+        "Bar": true,
+        "Café": false
+      },
+      "Facilities": {
+        "Gym on site": true,
+        "Boathouse": true,
+        "Library open 24/7": true,
+        "Computer rooms/stations": true,
+        "Wi-Fi throughout college": true,
+        "Music room": true,
+        "Theatre/performance space": false,
+        "Chapel": true,
+        "Multi-faith prayer room": false
+      },
+      "Clubs and societies": {
+        "Music society": true,
+        "Orchestra/s": true,
+        "Choir/s": true,
+        "Dramatic society": true,
+        "College student magazine/paper": true,
+        "Some subject societies": true,
+        "Other societies": true
+      }
+    }
+  },
+  "university-college": {
+    "name": "University College",
+    "link": "https://www.ox.ac.uk/admissions/undergraduate/colleges/college-listing/university-college",
+    "facilities": {
+      "College accommodation": {},
+      "Catering": {
+        "Dining hall": true,
+        "Bar": true,
+        "Café": false
+      },
+      "Facilities": {
+        "Gym on site": true,
+        "Boathouse": true,
+        "Library open 24/7": true,
+        "Computer rooms/stations": true,
+        "Wi-Fi throughout college": true,
+        "Music room": true,
+        "Theatre/performance space": false,
+        "Chapel": true,
+        "Multi-faith prayer room": false
+      },
+      "Clubs and societies": {
+        "Music society": true,
+        "Orchestra/s": false,
+        "Choir/s": true,
+        "Dramatic society": true,
+        "College student magazine/paper": false,
+        "Some subject societies": true,
+        "Other societies": true
+      }
+    }
+  },
+  "wadham-college": {
+    "name": "Wadham College",
+    "link": "https://www.ox.ac.uk/admissions/undergraduate/colleges/college-listing/wadham-college",
+    "facilities": {
+      "College accommodation": {
+        "All first years on site": true,
+        "Usually offered for three years": true,
+        "Usually offered for first year and one other year": false,
+        "Usually offered for all years": false,
+        "Some vacation storage for international students": true
+      },
+      "Catering": {
+        "Dining hall": true,
+        "Bar": true,
+        "Café": false
+      },
+      "Facilities": {
+        "Gym on site": true,
+        "Boathouse": true,
+        "Library open 24/7": true,
+        "Computer rooms/stations": true,
+        "Wi-Fi throughout college": true,
+        "Music room": true,
+        "Theatre/performance space": true,
+        "Chapel": true,
+        "Multi-faith prayer room": false
+      },
+      "Clubs and societies": {
+        "Music society": true,
+        "Orchestra/s": true,
+        "Choir/s": true,
+        "Dramatic society": true,
+        "College student magazine/paper": false,
+        "Some subject societies": true,
+        "Other societies": false
+      }
+    }
+  },
+  "worcester-college": {
+    "name": "Worcester College",
+    "link": "https://www.ox.ac.uk/admissions/undergraduate/colleges/college-listing/worcester-college",
+    "facilities": {
+      "College accommodation": {},
+      "Catering": {
+        "Dining hall": true,
+        "Bar": true,
+        "Café": true
+      },
+      "Facilities": {
+        "Gym on site": true,
+        "Boathouse": true,
+        "Library open 24/7": true,
+        "Computer rooms/stations": true,
+        "Wi-Fi throughout college": true,
+        "Music room": true,
+        "Theatre/performance space": true,
+        "Chapel": true,
+        "Multi-faith prayer room": false
+      },
+      "Clubs and societies": {
+        "Music society": true,
+        "Orchestra/s": true,
+        "Choir/s": true,
+        "Dramatic society": true,
+        "College student magazine/paper": true,
+        "Some subject societies": true,
+        "Other societies": true
+      }
+    }
+  },
+  "wycliffe-hall": {
+    "name": "Wycliffe Hall",
+    "link": "https://www.ox.ac.uk/admissions/undergraduate/colleges/college-listing/wycliffe-hall",
+    "facilities": {
+      "College accommodation": {},
+      "Catering": {
+        "Dining hall": true,
+        "Bar": false,
+        "Café": false
+      },
+      "Facilities": {
+        "Gym on site": false,
+        "Boathouse": false,
+        "Library open 24/7": true,
+        "Computer rooms/stations": true,
+        "Wi-Fi throughout college": true,
+        "Music room": false,
+        "Theatre/performance space": false,
+        "Chapel": true,
+        "Multi-faith prayer room": false
+      },
+      "Clubs and societies": {
+        "Music society": false,
+        "Orchestra/s": false,
+        "Choir/s": false,
+        "Dramatic society": false,
+        "College student magazine/paper": false,
+        "Some subject societies": false,
+        "Other societies": false
+      }
+    }
+  }
+}
